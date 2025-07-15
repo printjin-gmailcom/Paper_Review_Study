@@ -20,3 +20,4 @@
 | 2025.5.30 | Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting | Time Series Forecasting, Transformer, Auto-Correlation | [paper](https://arxiv.org/abs/2106.13008)     |
 | 2025.6.27 | Forecasting at Scale                                                                          | Time Series Forecasting, Scalable Models               | [paper](https://peerj.com/preprints/3190.pdf) |
 | 2025.7.4  | SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction          | Time Series Forecasting, Convolution, Interaction      | [paper](https://arxiv.org/abs/2106.09305)     |
+| 2025.7.11 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting         | Time Series Forecasting, Transformer, Frequency        | [paper](https://arxiv.org/abs/2201.12740)     |
