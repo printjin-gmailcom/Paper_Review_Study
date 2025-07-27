@@ -11,8 +11,11 @@
 
 ## Paper List
 
-| Date     | Paper                                                                 | Topic                             | Links                                     |
-| -------- | --------------------------------------------------------------------- | --------------------------------- | ----------------------------------------- |
-| 2025.7.1 | Attention Is All You Need                                             | Transformer, Self-Attention       | [paper](https://arxiv.org/abs/1706.03762) |
-| 2025.7.6 | Learning Transferable Visual Models From Natural Language Supervision | Vision-Language Pretraining, CLIP | [paper](https://arxiv.org/abs/2103.00020) |
+| Date      | Paper                                                                                          | Topic                             | Links                                     |
+| --------- | ---------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------------------------- |
+| 2025.7.1  | Attention Is All You Need                                                                      | Transformer, Self-Attention       | [paper](https://arxiv.org/abs/1706.03762) |
+| 2025.7.6  | Learning Transferable Visual Models From Natural Language Supervision                          | Vision-Language Pretraining, CLIP | [paper](https://arxiv.org/abs/2103.00020) |
 | 2025.7.13 | Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | Vision-Language Pretraining, BLIP | [paper](https://arxiv.org/abs/2201.12086) |
+| 2025.7.13 | Align before Fuse: Vision and Language Representation Learning with Momentum Distillation       | Vision-Language Pretraining       | [paper](https://arxiv.org/abs/2107.07651) |
+| 2025.7.20 | GIT: A Generative Image-to-text Transformer for Vision and Language                             | Vision-Language, Image Captioning | [paper](https://arxiv.org/abs/2205.14100) |
+| 2025.7.27 | Flamingo: a Visual Language Model for Few-Shot Learning                                         | Vision-Language, Few-Shot Learning| [paper](https://arxiv.org/abs/2204.14198) |
