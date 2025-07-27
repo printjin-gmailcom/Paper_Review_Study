@@ -21,3 +21,5 @@
 | 2025.6.27 | Forecasting at Scale                                                                          | Time Series Forecasting, Scalable Models               | [paper](https://peerj.com/preprints/3190.pdf) |
 | 2025.7.4  | SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction          | Time Series Forecasting, Convolution, Interaction      | [paper](https://arxiv.org/abs/2106.09305)     |
 | 2025.7.11 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting         | Time Series Forecasting, Transformer, Frequency        | [paper](https://arxiv.org/abs/2201.12740)     |
+| 2025.7.18 | TimesNet: Temporal 2D-Variation for Period-aware Time Series Forecasting                      | Time Series Forecasting, Periodicity, Temporal 2D      | [paper](https://arxiv.org/abs/2301.08060)     |
+| 2025.7.25 | PatchTST: A Patch-level Representation Framework for Multivariate Time Series Forecasting     | Time Series Forecasting, Patch-based Transformer       | [paper](https://arxiv.org/abs/2211.14730)     |
