@@ -23,3 +23,4 @@
 | 2025.7.11 | FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting         | Time Series Forecasting, Transformer, Frequency        | [paper](https://arxiv.org/abs/2201.12740)     |
 | 2025.7.18 | TimesNet: Temporal 2D-Variation for Period-aware Time Series Forecasting                      | Time Series Forecasting, Periodicity, Temporal 2D      | [paper](https://arxiv.org/abs/2210.02186)     |
 | 2025.7.25 | LightGTS: A Lightweight General Time Series Forecasting Model                                 | Time Series Forecasting, Lightweight Transformer        | [paper](https://arxiv.org/abs/2506.06005)     |
+| 2025.8.1  | SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting | Time Series Forecasting, Wavelet Decomposition, Sub-series | [paper](https://arxiv.org/pdf/2304.08485) |
