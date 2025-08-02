@@ -19,3 +19,4 @@
 | 2025.7.13 | Align before Fuse: Vision and Language Representation Learning with Momentum Distillation       | Vision-Language Pretraining       | [paper](https://arxiv.org/abs/2107.07651) |
 | 2025.7.20 | GIT: A Generative Image-to-text Transformer for Vision and Language                             | Vision-Language, Image Captioning | [paper](https://arxiv.org/abs/2205.14100) |
 | 2025.7.27 | Flamingo: a Visual Language Model for Few-Shot Learning                                         | Vision-Language, Few-Shot Learning| [paper](https://arxiv.org/abs/2204.14198) |
+| 2025.8.3  | Visual Instruction Tuning                                                                          | Vision-Language, Instruction Tuning | [paper](https://arxiv.org/pdf/2304.08485) |
