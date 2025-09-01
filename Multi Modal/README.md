@@ -23,3 +23,4 @@
 | 2025.8.10 | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning | Vision-Language, Instruction Pretraining | [paper](https://arxiv.org/abs/2305.06500) |
 | 2025.8.17 | Osprey: Pixel Understanding with Visual Instruction Tuning | Vision-Language, Pixel-Level Instruction | [paper](https://arxiv.org/pdf/2312.10032) |
 | 2025.8.24 | Vision-Language Instruction Tuning: A Review and Analysis | Vision-Language, Instruction Review | [paper](https://arxiv.org/abs/2311.08172) |
+| 2025.8.31 | BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions | Multimodal LLM, Text-Rich VQA | [paper](https://arxiv.org/abs/2308.09936) |
