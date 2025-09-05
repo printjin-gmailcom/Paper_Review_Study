@@ -28,4 +28,5 @@
 | 2025.8.15 | Sensorformer: Cross-patch attention with global-patch compression is effective for high-dimensional multivariate time series forecasting | Time Series Forecasting, Transformer, High-dimensional | [paper](https://arxiv.org/abs/2501.03284) |
 | 2025.8.22 | GPHT: Generative Pretrained Hierarchical Transformer for Time Series Forecasting | Time Series Forecasting, Transformer, Pretraining | [paper](https://arxiv.org/pdf/2402.16516) |
 | 2025.8.29 | CPformer: Concept- and Physics-enhanced Transformer for Time Series Forecasting | Time Series Forecasting, Transformer, Physics-informed | [paper](https://arxiv.org/abs/2508.01407) |
+| 2025.9.5  | AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction | Time Series Forecasting, Transformer, Autoregressive | [paper](https://arxiv.org/html/2506.16001v1) |
 
