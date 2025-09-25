@@ -24,3 +24,7 @@
 | 2025.8.17 | Osprey: Pixel Understanding with Visual Instruction Tuning | Vision-Language, Pixel-Level Instruction | [paper](https://arxiv.org/pdf/2312.10032) |
 | 2025.8.24 | Vision-Language Instruction Tuning: A Review and Analysis | Vision-Language, Instruction Review | [paper](https://arxiv.org/abs/2311.08172) |
 | 2025.8.31 | BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions | Multimodal LLM, Text-Rich VQA | [paper](https://arxiv.org/abs/2308.09936) |
+| 2025.9.7  | VATT: Video-Audio-Text Transformer | Multimodal, Video-Audio-Text | [paper](https://arxiv.org/abs/2104.11178) |
+| 2025.9.14 | AV-HuBERT: Self-Supervised Audio-Visual Speech Representation Learning | Multimodal, Audio-Visual Speech | [paper](https://arxiv.org/abs/2105.08184) |
+| 2025.9.21 | Look, Listen and Learn | Multimodal, Audio-Visual Representation Learning | [paper](https://arxiv.org/abs/1805.08841) |
+
