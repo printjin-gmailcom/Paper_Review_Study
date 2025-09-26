@@ -30,5 +30,6 @@
 | 2025.8.29 | CPformer: Concept- and Physics-enhanced Transformer for Time Series Forecasting | Time Series Forecasting, Transformer, Physics-informed | [paper](https://arxiv.org/abs/2508.01407) |
 | 2025.9.5  | AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction | Time Series Forecasting, Transformer, Autoregressive | [paper](https://arxiv.org/html/2506.16001v1) |
 | 2025.9.12 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | Time Series Forecasting, Feedforward Neural Networks | [paper](https://arxiv.org/abs/2503.23621)                                                          
-| 2025.9.19 | Deep Time Series Models: A Comprehensive Survey and Benchmarking | Time Series Forecasting, Survey, Benchmarking | [paper](https://arxiv.org/abs/2407.13278)                                                                              |
+| 2025.9.19 | Deep Time Series Models: A Comprehensive Survey and Benchmarking | Time Series Forecasting, Survey, Benchmarking | [paper](https://arxiv.org/abs/2407.13278)   
+| 2025.10.3 | A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection | Time Series Forecasting, Graph Neural Networks, Survey | [paper](https://arxiv.org/abs/2307.03759) |
 
