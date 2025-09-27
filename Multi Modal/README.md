@@ -27,4 +27,5 @@
 | 2025.9.7  | VATT: Video-Audio-Text Transformer | Multimodal, Video-Audio-Text | [paper](https://arxiv.org/abs/2104.11178) |
 | 2025.9.14 | AV-HuBERT: Self-Supervised Audio-Visual Speech Representation Learning | Multimodal, Audio-Visual Speech | [paper](https://arxiv.org/abs/2201.02184) |
 | 2025.9.21 | Look, Listen and Learn | Multimodal, Audio-Visual Representation Learning | [paper](https://arxiv.org/abs/1705.08168) |
+| 2025.9.28 | The “something something” video database for learning and evaluating visual common sense | Dataset, Video Understanding | [paper](https://arxiv.org/pdf/1706.04261) |
 
