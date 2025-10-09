@@ -18,4 +18,4 @@
 | 2025.9.17 | Factorization Machines | Factorization Machines, Recommendation | [paper](https://ieeexplore.ieee.org/document/5694074)                                                                  |
 | 2025.9.24 | Collaborative Filtering with Graph-based Implicit Feedback | Graph-based CF, Implicit Feedback | [paper](https://arxiv.org/abs/1803.03502)                                                                              |
 | 2025.10.1 | Neural Collaborative Filtering | Neural Networks, Collaborative Filtering | [paper](https://arxiv.org/abs/1708.05031) |
-| 2025.10.8 | AutoRec: Autoencoders Meet Collaborative Filtering | Autoencoder, Collaborative Filtering | [paper] (https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) |
+| 2025.10.8 | AutoRec: Autoencoders Meet Collaborative Filtering | Autoencoder, Collaborative Filtering | [paper](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) |
