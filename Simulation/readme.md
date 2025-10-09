@@ -17,3 +17,4 @@
 | 2025.9.18 | Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey | Sim-to-Real Transfer, Deep Reinforcement Learning | [paper](https://arxiv.org/abs/2009.13303)                                                                               |
 | 2025.9.25 | Survey of Finite Element Method-Based Real-Time Simulations                | FEM, Real-Time Simulation                         | [paper](https://www.researchgate.net/publication/334380044_Survey_of_Finite_Element_Method-Based_Real-Time_Simulations) |
 | 2025.10.02 | Co-simulation of Continuous Systems: A Tutorial | Co-simulation, Systems Integration | [paper](https://arxiv.org/pdf/1809.08463) |
+| 2025.10.09 | SUMO – Simulation of Urban MObility | Traffic Simulation, Urban Mobility | [paper](https://scispace.com/pdf/sumo-simulation-of-urban-mobility-an-overview1uekpq70w.pdf) |
