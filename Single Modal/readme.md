@@ -24,4 +24,5 @@
 | 2025.9.13 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | CNN, Image Classification | [paper](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) |
 | 2025.9.20 | Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG16) | CNN, Deep Learning | [paper](https://arxiv.org/abs/1409.1556) |
 | 2025.9.27 | Going Deeper with Convolutions | CNN, Inception | [paper](https://arxiv.org/pdf/1409.4842) |
-| 2025.10.04 | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | Object Detection, RPN, CNN | [paper](https://arxiv.org/pdf/1506.01497) |
+| 2025.10.04 | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | Object Detection, RPN, CNN          | [paper](https://arxiv.org/pdf/1506.01497) |
+| 2025.10.11 | End-to-End Object Detection with Transformers                                  | Object Detection, Transformer, DETR | [paper](https://arxiv.org/abs/2005.12872) |
