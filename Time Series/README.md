@@ -33,4 +33,4 @@
 | 2025.9.19 | Deep Time Series Models: A Comprehensive Survey and Benchmarking | Time Series Forecasting, Survey, Benchmarking | [paper](https://arxiv.org/abs/2407.13278)   
 | 2025.9.26 | A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection | Time Series Forecasting, Graph Neural Networks, Survey | [paper](https://arxiv.org/abs/2307.03759) |
 | 2025.10.03 | Empowering Time Series Analysis with Large Language Models: A Survey | Time Series, Large Language Models, Survey | [paper](https://arxiv.org/abs/2402.03182) |
-| 2025.10.17 | Graph-based Time-Series Anomaly Detection: A Survey and Outlook | Graph, Time Series, Anomaly Detection, Survey | [paper](https://arxiv.org/pdf/2302.00058v3) |
+| 2025.10.10 | Graph-based Time-Series Anomaly Detection: A Survey and Outlook | Graph, Time Series, Anomaly Detection, Survey | [paper](https://arxiv.org/pdf/2302.00058v3) |
