@@ -28,6 +28,8 @@
 | 2025.9.14 | AV-HuBERT: Self-Supervised Audio-Visual Speech Representation Learning | Multimodal, Audio-Visual Speech | [paper](https://arxiv.org/abs/2201.02184) |
 | 2025.9.21 | Look, Listen and Learn | Multimodal, Audio-Visual Representation Learning | [paper](https://arxiv.org/abs/1705.08168) |
 | 2025.9.28 | The “something something” video database for learning and evaluating visual common sense | Dataset, Video Understanding | [paper](https://arxiv.org/pdf/1706.04261) |
-| 2025.10.05 | Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input | Egocentric Vision, Human Motion, Multi-Modal | [paper](https://arxiv.org/abs/2504.08449) |
+| 2025.10.05 | Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input         | Egocentric Vision, Human Motion, Multi-Modal          | [paper](https://arxiv.org/abs/2504.08449) |
+| 2025.10.12 | UniSpeech-SAT: Universal Speech Representation Learning with Speaker-Aware Pre-Training | Speech Representation, Self-Supervised, Speaker-Aware | [paper](https://arxiv.org/abs/2109.06912) |
+
 
 
