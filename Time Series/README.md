@@ -34,3 +34,5 @@
 | 2025.9.26 | A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection | Time Series Forecasting, Graph Neural Networks, Survey | [paper](https://arxiv.org/abs/2307.03759) |
 | 2025.10.03 | Empowering Time Series Analysis with Large Language Models: A Survey | Time Series, Large Language Models, Survey | [paper](https://arxiv.org/abs/2402.03182) |
 | 2025.10.10 | Graph-based Time-Series Anomaly Detection: A Survey and Outlook | Graph, Time Series, Anomaly Detection, Survey | [paper](https://arxiv.org/pdf/2302.00058v3) |
+| 2025.10.17 | Unsupervised Anomaly Detection in Time-series: An Extensive Evaluation and Analysis of State-of-the-art Methods | Time Series, Anomaly Detection, Unsupervised Learning, Evaluation | [paper](https://arxiv.org/abs/2212.03637) |
+
