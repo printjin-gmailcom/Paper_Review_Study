@@ -30,6 +30,7 @@
 | 2025.9.28 | The “something something” video database for learning and evaluating visual common sense | Dataset, Video Understanding | [paper](https://arxiv.org/pdf/1706.04261) |
 | 2025.10.05 | Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input         | Egocentric Vision, Human Motion, Multi-Modal          | [paper](https://arxiv.org/abs/2504.08449) |
 | 2025.10.12 | UniSpeech-SAT: Universal Speech Representation Learning with Speaker-Aware Pre-Training | Speech Representation, Self-Supervised, Speaker-Aware | [paper](https://arxiv.org/pdf/2110.05752) |
+| 2025.10.19 | Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions | Text-to-Speech, Neural Vocoder, Tacotron2 | [paper](https://arxiv.org/pdf/1712.05884) |
 
 
 
