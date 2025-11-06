@@ -20,3 +20,5 @@
 | 2025.10.1 | Neural Collaborative Filtering | Neural Networks, Collaborative Filtering | [paper](https://arxiv.org/abs/1708.05031) |
 | 2025.10.8  | AutoRec: Autoencoders Meet Collaborative Filtering | Autoencoder, Collaborative Filtering          | [paper](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)|
 | 2025.10.15 | Wide & Deep Learning for Recommender Systems| Wide Model, Deep Model, Recommendation System | [paper](https://arxiv.org/pdf/1606.07792)|
+| 2025.10.22 | DeepFM: A Factorization‑Machine based Neural Network for CTR Prediction | Factorization Machine + Neural Network, CTR Prediction | [paper](https://arxiv.org/abs/1703.04247) |
+| 2025.11.05 | Neural Factorization Applied to Interaction Matrix for Recommendation | Neural‑Factorization, Interaction Matrix, Recommendation | [paper](https://arxiv.org/pdf/2407.08942) |
