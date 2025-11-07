@@ -29,10 +29,11 @@
 | 2025.8.22 | GPHT: Generative Pretrained Hierarchical Transformer for Time Series Forecasting | Time Series Forecasting, Transformer, Pretraining | [paper](https://arxiv.org/pdf/2402.16516) |
 | 2025.8.29 | CPformer: Concept- and Physics-enhanced Transformer for Time Series Forecasting | Time Series Forecasting, Transformer, Physics-informed | [paper](https://arxiv.org/abs/2508.01407) |
 | 2025.9.5  | AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction | Time Series Forecasting, Transformer, Autoregressive | [paper](https://arxiv.org/html/2506.16001v1) |
-| 2025.9.12 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | Time Series Forecasting, Feedforward Neural Networks | [paper](https://arxiv.org/abs/2503.23621)                                                          
+| 2025.9.12 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | Time Series Forecasting, Feedforward Neural Networks | [paper](https://arxiv.org/abs/2503.23621)      
 | 2025.9.19 | Deep Time Series Models: A Comprehensive Survey and Benchmarking | Time Series Forecasting, Survey, Benchmarking | [paper](https://arxiv.org/abs/2407.13278)   
 | 2025.9.26 | A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection | Time Series Forecasting, Graph Neural Networks, Survey | [paper](https://arxiv.org/abs/2307.03759) |
 | 2025.10.03 | Empowering Time Series Analysis with Large Language Models: A Survey | Time Series, Large Language Models, Survey | [paper](https://arxiv.org/abs/2402.03182) |
 | 2025.10.10 | Graph-based Time-Series Anomaly Detection: A Survey and Outlook | Graph, Time Series, Anomaly Detection, Survey | [paper](https://arxiv.org/pdf/2302.00058v3) |
 | 2025.10.17 | Unsupervised Anomaly Detection in Time-series: An Extensive Evaluation and Analysis of State-of-the-art Methods | Time Series, Anomaly Detection, Unsupervised Learning, Evaluation | [paper](https://arxiv.org/abs/2212.03637) |
-
+| 2025.10.24 | ETSformer: Exponential Smoothing Transformers for Time Series Forecasting | Time Series, Forecasting, Transformer, Exponential Smoothing | [paper](https://arxiv.org/abs/2202.01381)                 |
+| 2025.11.07 | Multi-resolution Time-Series Transformer for Long-term Forecasting | Time Series, Transformer, Long-term Forecasting, Multi-resolution | [paper](https://arxiv.org/abs/2311.04147) |
