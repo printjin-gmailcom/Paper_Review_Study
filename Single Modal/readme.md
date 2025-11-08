@@ -27,3 +27,5 @@
 | 2025.10.04 | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | Object Detection, RPN, CNN| [paper](https://arxiv.org/pdf/1506.01497) |
 | 2025.10.11 | End-to-End Object Detection with Transformers| Object Detection, Transformer, DETR | [paper](https://arxiv.org/abs/2005.12872)|
 | 2025.10.18 | Deep Speech: Scaling up end-to-end speech recognition| Speech Recognition, RNN, CTC, End-to-End | [paper](https://arxiv.org/abs/1412.5567) |
+| 2025.10.25 | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin | Speech Recognition, RNN, BatchNorm, End-to-End | [paper](https://arxiv.org/abs/1512.02595) |
+| 2025.11.08 | Is Space-Time Attention All You Need for Video Understanding? | Video Understanding, Transformer, Attention, TimeSformer | [paper](https://arxiv.org/abs/2102.05095) |
