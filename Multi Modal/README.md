@@ -31,6 +31,6 @@
 | 2025.10.05 | Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input         | Egocentric Vision, Human Motion, Multi-Modal          | [paper](https://arxiv.org/abs/2504.08449) |
 | 2025.10.12 | UniSpeech-SAT: Universal Speech Representation Learning with Speaker-Aware Pre-Training | Speech Representation, Self-Supervised, Speaker-Aware | [paper](https://arxiv.org/pdf/2110.05752) |
 | 2025.10.19 | Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions | Text-to-Speech, Neural Vocoder, Tacotron2 | [paper](https://arxiv.org/pdf/1712.05884) |
-
-
+| 2025.10.26 | wav2vec 2.0: Self-Supervised Learning for Speech Recognition | Speech Recognition, Self-Supervised, Representation Learning | [paper](https://arxiv.org/pdf/2006.11477) |
+| 2025.11.09 | TaPas: Weakly Supervised Table Parsing via Pre-training | Table Parsing, Weak Supervision, Language Model | [paper](https://arxiv.org/pdf/2004.02349) |
 
