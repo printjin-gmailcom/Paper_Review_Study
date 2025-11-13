@@ -20,3 +20,5 @@
 | 2025.10.09 | SUMO – Simulation of Urban MObility                                               | Traffic Simulation, Urban Mobility                 | [paper](https://scispace.com/pdf/sumo-simulation-of-urban-mobility-an-overview1uekpq70w.pdf) |
 | 2025.10.16 | Agent-based models in urban transportation: review, challenges, and opportunities | Agent-based Modeling, Urban Transportation, Review | [paper](https://etrr.springeropen.com/articles/10.1186/s12544-023-00590-5)                    |
 2025.11.6 | Agent-Based Modelling Meets Generative AI in Social Network Simulations | Agent-Based Modelling, Generative AI, Social Network Simulation | [paper](https://arxiv.org/html/2411.16031v1)
+| 2025.11.13 | Agent-Based Social Simulation and Modeling in Social Computing | Agent-Based Modeling, Social Computing | [paper](https://www.researchgate.net/publication/225107908)                                                             |
+
