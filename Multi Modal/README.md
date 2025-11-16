@@ -33,4 +33,4 @@
 | 2025.10.19 | Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions | Text-to-Speech, Neural Vocoder, Tacotron2 | [paper](https://arxiv.org/pdf/1712.05884) |
 | 2025.10.26 | wav2vec 2.0: Self-Supervised Learning for Speech Recognition | Speech Recognition, Self-Supervised, Representation Learning | [paper](https://arxiv.org/pdf/2006.11477) |
 | 2025.11.09 | TaPas: Weakly Supervised Table Parsing via Pre-training | Table Parsing, Weak Supervision, Language Model | [paper](https://arxiv.org/pdf/2004.02349) |
-
+| 2025.11.16 | TURL: Table Understanding through Representation Learning | Table Understanding, Pre-training, Representation Learning | [paper](https://arxiv.org/pdf/2006.14806)
