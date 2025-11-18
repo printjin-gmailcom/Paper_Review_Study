@@ -23,3 +23,5 @@
 | 2025.10.22 | DeepFM: A Factorization-Machine based Neural Network for CTR Prediction | Factorization Machine + Neural Network, CTR Prediction | [paper](https://arxiv.org/abs/1703.04247) |
 | 2025.11.05 | Neural Factorization Applied to Interaction Matrix for Recommendation | Neural-Factorization, Interaction Matrix, Recommendation | [paper](https://arxiv.org/pdf/2407.08942) |
 | 2025.11.12 | Session-based Recommendation with Graph Neural Networks | Session-based Recommendation, Graph Neural Networks | [paper](https://arxiv.org/pdf/1811.00855) |
+| 2025.11.19 | Context-Aware Co-attention Neural Network for Service Recommendations | Service Recommendation, Context-Aware, Co-attention | [paper](https://arxiv.org/html/2506.10329v1) |
+
