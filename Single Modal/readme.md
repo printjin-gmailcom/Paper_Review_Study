@@ -30,3 +30,4 @@
 | 2025.10.25 | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin | Speech Recognition, RNN, BatchNorm, End-to-End | [paper](https://arxiv.org/abs/1512.02595) |
 | 2025.11.08 | Is Space-Time Attention All You Need for Video Understanding? | Video Understanding, Transformer, Attention, TimeSformer | [paper](https://arxiv.org/abs/2102.05095) |
 | 2025.11.15 | WAVENET : A GENERATIVE MODEL FOR RAW AUDIO | Generative Model, Raw Audio, Autoregressive, Dilated Convolution | [paper](https://arxiv.org/pdf/1609.03499) |
+| 2025.11.22 | Tacotron : Towards End-to-End Speech Synthesis | End-to-End TTS, Seq2Seq, Attention | [paper](https://arxiv.org/abs/1703.10135) |
