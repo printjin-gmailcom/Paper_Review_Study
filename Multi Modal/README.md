@@ -34,3 +34,4 @@
 | 2025.10.26 | wav2vec 2.0: Self-Supervised Learning for Speech Recognition | Speech Recognition, Self-Supervised, Representation Learning | [paper](https://arxiv.org/pdf/2006.11477) |
 | 2025.11.09 | TaPas: Weakly Supervised Table Parsing via Pre-training | Table Parsing, Weak Supervision, Language Model | [paper](https://arxiv.org/pdf/2004.02349) |
 | 2025.11.16 | TURL: Table Understanding through Representation Learning | Table Understanding, Pre-training, Representation Learning | [paper](https://arxiv.org/pdf/2006.14806)
+| 2025.11.23 | TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data | Text–Table Joint Representation, Pre-training, Table QA, Semantic Parsing | [paper](https://arxiv.org/abs/2005.08314)
