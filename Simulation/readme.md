@@ -22,4 +22,5 @@
 2025.11.6 | Agent-Based Modelling Meets Generative AI in Social Network Simulations | Agent-Based Modelling, Generative AI, Social Network Simulation | [paper](https://arxiv.org/html/2411.16031v1)
 | 2025.11.13 | Agent-Based Social Simulation and Modeling in Social Computing | Agent-Based Modeling, Social Computing | [paper](https://www.researchgate.net/publication/225107908)                                                             |
 | 2025.11.20 | Multi-Agent Based Simulation of Organizational Routines on Complex Networks | Multi-Agent Simulation, Organizational Routines | [paper](https://www.jasss.org/18/3/17/17.pdf) |
+| 2025.11.26 | Towards Realistic Multi-Agent Simulations with Foundation Models | Multi-Agent Simulation, Social Impact, Foundation Models | [paper](https://arxiv.org/html/2412.07880v2) |
 
