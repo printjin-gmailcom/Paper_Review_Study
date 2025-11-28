@@ -37,5 +37,6 @@
 | 2025.10.17 | Unsupervised Anomaly Detection in Time-series: An Extensive Evaluation and Analysis of State-of-the-art Methods | Time Series, Anomaly Detection, Unsupervised Learning, Evaluation | [paper](https://arxiv.org/abs/2212.03637) |
 | 2025.10.24 | ETSformer: Exponential Smoothing Transformers for Time Series Forecasting | Time Series, Forecasting, Transformer, Exponential Smoothing | [paper](https://arxiv.org/abs/2202.01381)                 |
 | 2025.11.07 | Multi-resolution Time-Series Transformer for Long-term Forecasting | Time Series, Transformer, Long-term Forecasting, Multi-resolution | [paper](https://arxiv.org/abs/2311.04147) |
-| 2025.11.14 | N‑BEATS: Neural basis expansion analysis for interpretable time series forecasting | Time Series, Deep Learning, Interpretability | paper |
-| 2025.11.21 | Long-term Forecasting with TiDE: Time-series Dense Encoder | Time Series, Deep Learning, Forecasting | paper | https://arxiv.org/pdf/2304.08424 |
+| 2025.11.14 | N‑BEATS: Neural basis expansion analysis for interpretable time series forecasting | Time Series, Deep Learning, Interpretability | [paper](https://arxiv.org/abs/1905.10437) |
+| 2025.11.21 | Long-term Forecasting with TiDE: Time-series Dense Encoder | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2304.08424) |
+| 2025.11.28 | Long‑term Time Series Forecasting based on Decomposition and Neural Ordinary Differential Equations | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2311.04522) |
