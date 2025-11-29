@@ -31,3 +31,4 @@
 | 2025.11.08 | Is Space-Time Attention All You Need for Video Understanding? | Video Understanding, Transformer, Attention, TimeSformer | [paper](https://arxiv.org/abs/2102.05095) |
 | 2025.11.15 | WAVENET : A GENERATIVE MODEL FOR RAW AUDIO | Generative Model, Raw Audio, Autoregressive, Dilated Convolution | [paper](https://arxiv.org/pdf/1609.03499) |
 | 2025.11.22 | Tacotron : Towards End-to-End Speech Synthesis | End-to-End TTS, Seq2Seq, Attention | [paper](https://arxiv.org/abs/1703.10135) |
+| 2025.11.22 | Deep Speech : Scaling up end to end speech recognition | End-to-End ASR, RNN, CTC | [paper](https://arxiv.org/abs/1412.5567) |
