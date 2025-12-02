@@ -25,3 +25,4 @@
 | 2025.11.12 | Session-based Recommendation with Graph Neural Networks | Session-based Recommendation, Graph Neural Networks | [paper](https://arxiv.org/pdf/1811.00855) |
 | 2025.11.19 | Context-Aware Co-attention Neural Network for Service Recommendations | Service Recommendation, Context-Aware, Co-attention | [paper](https://arxiv.org/html/2506.10329v1) |
 | 2025.11.26 | Multimodal Recommender Systems: A Technical Survey | Multimodal, Recommendation, Survey | [paper](https://arxiv.org/pdf/2302.03883) |
+| 2025.12.03 | VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback | Visual, BPR, Recommendation | [paper](https://arxiv.org/pdf/1510.01784) |
