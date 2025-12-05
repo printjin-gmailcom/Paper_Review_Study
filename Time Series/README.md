@@ -40,3 +40,4 @@
 | 2025.11.14 | N‑BEATS: Neural basis expansion analysis for interpretable time series forecasting | Time Series, Deep Learning, Interpretability | [paper](https://arxiv.org/abs/1905.10437) |
 | 2025.11.21 | Long-term Forecasting with TiDE: Time-series Dense Encoder | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2304.08424) |
 | 2025.11.28 | Long‑term Time Series Forecasting based on Decomposition and Neural Ordinary Differential Equations | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2311.04522) |
+| 2025.12.05 | An Analysis of Linear Time Series Forecasting Models | Time Series, Linear Model, Forecasting | [paper](https://arxiv.org/html/2403.14587v2) |
