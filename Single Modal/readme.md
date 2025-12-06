@@ -32,3 +32,4 @@
 | 2025.11.15 | WAVENET : A GENERATIVE MODEL FOR RAW AUDIO | Generative Model, Raw Audio, Autoregressive, Dilated Convolution | [paper](https://arxiv.org/pdf/1609.03499) |
 | 2025.11.22 | Tacotron : Towards End-to-End Speech Synthesis | End-to-End TTS, Seq2Seq, Attention | [paper](https://arxiv.org/abs/1703.10135) |
 | 2025.11.29 | Deep Speech : Scaling up end to end speech recognition | End-to-End ASR, RNN, CTC | [paper](https://arxiv.org/abs/1412.5567) |
+| 2025.12.06 | HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units | Self-Supervised ASR / Speech Representation | [paper](https://arxiv.org/abs/2106.07447) |
