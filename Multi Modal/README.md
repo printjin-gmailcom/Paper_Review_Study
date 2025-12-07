@@ -36,3 +36,4 @@
 | 2025.11.16 | TURL: Table Understanding through Representation Learning | Table Understanding, Pre-training, Representation Learning | [paper](https://arxiv.org/pdf/2006.14806)
 | 2025.11.23 | TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data | Text–Table Joint Representation, Pre-training, Table QA, Semantic Parsing | [paper](https://arxiv.org/abs/2005.08314)
 | 2025.11.30 | Point-BERT : Pre-training 3D Point Cloud Transformers with Masked Point Modeling | 3D Point Cloud, Transformer, Self-Supervised Pre-training | [paper](https://arxiv.org/pdf/2111.14819) |
+| 2025.12.07 | Efficient Pix2Vox++ for 3D Cardiac Reconstruction from 2D Echo Views | 3D Reconstruction, Medical Imaging, Pix2Vox, Cardiac Ultrasound | [paper](https://arxiv.org/pdf/2207.13424) |
