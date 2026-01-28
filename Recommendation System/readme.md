@@ -26,3 +26,7 @@
 | 2025.11.19 | Context-Aware Co-attention Neural Network for Service Recommendations | Service Recommendation, Context-Aware, Co-attention | [paper](https://arxiv.org/html/2506.10329v1) |
 | 2025.11.26 | Multimodal Recommender Systems: A Technical Survey | Multimodal, Recommendation, Survey | [paper](https://arxiv.org/pdf/2302.03883) |
 | 2025.12.03 | VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback | Visual, BPR, Recommendation | [paper](https://arxiv.org/pdf/1510.01784) |
+| 2026.01.05 | PBNR: Prompt-based News Recommender System | Prompt-based, News, Recommendation | [paper](https://arxiv.org/abs/2304.07862)
+| 2026.01.12 | BPR: Bayesian Personalized Ranking from Implicit Feedback | BPR, Implicit Feedback, Recommendation | [paper](https://arxiv.org/pdf/1205.2618.pdf)
+| 2026.01.19 | ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation | Retrieval, LLM, Recommendation | [paper](https://arxiv.org/abs/2506.21931)
+| 2026.01.26 | Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders | LLM, Benchmark, Recommendation | [paper](https://arxiv.org/html/2503.05493v1)
