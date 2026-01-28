@@ -33,3 +33,7 @@
 | 2025.11.22 | Tacotron : Towards End-to-End Speech Synthesis | End-to-End TTS, Seq2Seq, Attention | [paper](https://arxiv.org/abs/1703.10135) |
 | 2025.11.29 | Deep Speech : Scaling up end to end speech recognition | End-to-End ASR, RNN, CTC | [paper](https://arxiv.org/abs/1412.5567) |
 | 2025.12.06 | HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units | Self-Supervised ASR / Speech Representation | [paper](https://arxiv.org/abs/2106.07447) |
+| 2026.01.07 | DEBERTAV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing | NLP, Transformer, Pretraining | [paper](https://arxiv.org/abs/2111.09543)
+| 2026.01.14 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | NLP, BERT, Pretraining | [paper](https://arxiv.org/abs/1907.11692)
+| 2026.01.21 | TRIBE: TRImodal Brain Encoder for whole‑brain fMRI response prediction | Brain Encoding, Multimodal, fMRI | [paper](https://arxiv.org/abs/2507.22229)
+| 2026.01.28 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | NLP, Transformer, Autoregressive | [paper](https://arxiv.org/abs/1906.08237)
