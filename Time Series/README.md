@@ -41,7 +41,7 @@
 | 2025.11.21 | Long-term Forecasting with TiDE: Time-series Dense Encoder | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2304.08424) |
 | 2025.11.28 | Long‑term Time Series Forecasting based on Decomposition and Neural Ordinary Differential Equations | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2311.04522) |
 | 2025.12.05 | An Analysis of Linear Time Series Forecasting Models | Time Series, Linear Model, Forecasting | [paper](https://arxiv.org/html/2403.14587v2) |
-| 2026.01.07 | DEBERTAV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing | NLP, Transformer, Pretraining | [paper](https://arxiv.org/abs/2111.09543)
-| 2026.01.14 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | NLP, BERT, Pretraining | [paper](https://arxiv.org/abs/1907.11692)
-| 2026.01.21 | TRIBE: TRImodal Brain Encoder for whole‑brain fMRI response prediction | Brain Encoding, Multimodal, fMRI | [paper](https://arxiv.org/abs/2507.22229)
-| 2026.01.28 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | NLP, Transformer, Autoregressive | [paper](https://arxiv.org/abs/1906.08237)
+| 2026.01.06 | ITransformer: Inverted Transformers Are Effective for Time Series Forecasting | Time Series Forecasting, Transformer, Inverted Architecture | [paper](https://arxiv.org/abs/2310.06625)
+| 2026.01.13 | TS2Vec: Towards Universal Representation of Time Series | Time Series Representation, Contrastive Learning | [paper](https://arxiv.org/abs/2106.10466)
+| 2026.01.20 | Pyraformer: Low‑Complexity Pyramidal Attention for Long‑Range Time Series Modeling and Forecasting | Time Series Forecasting, Pyramidal Attention, Transformer | [paper](https://openreview.net/forum?id=0EXmFzUn5I)
+| 2026.01.27 | CaReTS: A Multi‑Task Framework Unifying Classification and Regression for Time Series Forecasting | Multi‑Task Learning, Time Series Forecasting | [paper](https://arxiv.org/abs/2511.09789)
