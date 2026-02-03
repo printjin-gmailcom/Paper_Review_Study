@@ -45,3 +45,4 @@
 | 2026.01.13 | TS2Vec: Towards Universal Representation of Time Series | Time Series Representation, Contrastive Learning | [paper](https://arxiv.org/abs/2106.10466)
 | 2026.01.20 | Pyraformer: Low‑Complexity Pyramidal Attention for Long‑Range Time Series Modeling and Forecasting | Time Series Forecasting, Pyramidal Attention, Transformer | [paper](https://openreview.net/forum?id=0EXmFzUn5I)
 | 2026.01.27 | CaReTS: A Multi‑Task Framework Unifying Classification and Regression for Time Series Forecasting | Multi‑Task Learning, Time Series Forecasting | [paper](https://arxiv.org/abs/2511.09789)
+| 2026.02.03 | Temporal Convolutional Attention-based Network For Sequence Modeling | Sequence Modeling, Temporal Convolutional Networks, Attention | [paper](https://arxiv.org/pdf/2002.12530)
