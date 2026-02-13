@@ -38,3 +38,4 @@
 | 2026.01.21 | TRIBE: TRImodal Brain Encoder for whole‑brain fMRI response prediction | Brain Encoding, Multimodal, fMRI | [paper](https://arxiv.org/abs/2507.22229)
 | 2026.01.28 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | NLP, Transformer, Autoregressive | [paper](https://arxiv.org/abs/1906.08237)
 | 2026.02.04 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | NLP, Transformer, Attention Optimization | [paper](https://arxiv.org/pdf/2205.14135) |
+| 2026.02.11 | A ConvNet for the 2020s | CV, ConvNet Architecture | [paper](https://arxiv.org/pdf/2201.03545) |
