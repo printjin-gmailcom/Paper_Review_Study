@@ -32,3 +32,4 @@
 | 2026.01.26 | Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders | LLM, Benchmark, Recommendation | [paper](https://arxiv.org/html/2503.05493v1)
 | 2026.02.02 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation | Graph, GCN, Recommendation | [paper](https://arxiv.org/pdf/2002.02126)
 | 2026.02.09 | Neural Attentive Session-based Recommendation | Session-based, Attention, Recommendation | [paper](https://arxiv.org/pdf/1711.04725) |
+| 2026.02.16 | Self-Attentive Sequential Recommendation | Sequential, Self-Attention, Recommendation | [paper](https://arxiv.org/pdf/1808.09781) |
