@@ -47,3 +47,4 @@
 | 2026.01.27 | CaReTS: A Multi‑Task Framework Unifying Classification and Regression for Time Series Forecasting | Multi‑Task Learning, Time Series Forecasting | [paper](https://arxiv.org/abs/2511.09789)
 | 2026.02.03 | Temporal Convolutional Attention-based Network For Sequence Modeling | Sequence Modeling, Temporal Convolutional Networks, Attention | [paper](https://arxiv.org/pdf/2002.12530)
 | 2026.02.10 | TSMixer: An All-MLP Architecture for Time Series Forecasting | Time Series Forecasting, All-MLP, MLP-Mixer, Sequence Modeling | [paper](https://arxiv.org/pdf/2303.06053)
+| 2026.02.13 | N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting | Time Series Forecasting, Hierarchical Interpolation, Multi-Rate Sampling | [paper](https://arxiv.org/pdf/2201.12886)
