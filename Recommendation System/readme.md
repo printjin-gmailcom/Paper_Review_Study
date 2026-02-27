@@ -33,3 +33,4 @@
 | 2026.02.02 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation | Graph, GCN, Recommendation | [paper](https://arxiv.org/pdf/2002.02126)
 | 2026.02.09 | Neural Attentive Session-based Recommendation | Session-based, Attention, Recommendation | [paper](https://arxiv.org/pdf/1711.04725) |
 | 2026.02.16 | Self-Attentive Sequential Recommendation | Sequential, Self-Attention, Recommendation | [paper](https://arxiv.org/pdf/1808.09781) |
+| 2026.02.23 | GRU4Rec : Session-based Recommendations with Recurrent Neural Networks | Recommender Systems, Session-based, RNN/GRU | [paper](https://arxiv.org/pdf/1511.06939) |
