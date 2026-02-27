@@ -39,5 +39,5 @@
 | 2026.01.28 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | NLP, Transformer, Autoregressive | [paper](https://arxiv.org/abs/1906.08237)
 | 2026.02.04 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | NLP, Transformer, Attention Optimization | [paper](https://arxiv.org/pdf/2205.14135) |
 | 2026.02.11 | A ConvNet for the 2020s | CV, ConvNet Architecture | [paper](https://arxiv.org/pdf/2201.03545) |
-| 2026.02.19 | Swin Transformer | CV, Vision Transformer Backbone | [paper](https://arxiv.org/pdf/2103.14030) |
- |
+| 2026.02.18 | Swin Transformer | CV, Vision Transformer Backbone | [paper](https://arxiv.org/pdf/2103.14030) |
+| 2026.02.25 | Masked Autoencoders Are Scalable Vision Learners | CV, Vision Transformers Self-Supervised Learning | [paper](https://arxiv.org/pdf/2111.06377) |
