@@ -41,3 +41,4 @@
 | 2026.02.11 | A ConvNet for the 2020s | CV, ConvNet Architecture | [paper](https://arxiv.org/pdf/2201.03545) |
 | 2026.02.18 | Swin Transformer | CV, Vision Transformer Backbone | [paper](https://arxiv.org/pdf/2103.14030) |
 | 2026.02.25 | Masked Autoencoders Are Scalable Vision Learners | CV, Vision Transformers Self-Supervised Learning | [paper](https://arxiv.org/pdf/2111.06377) |
+| 2026.03.03 | DistilBERT: a distilled version of BERT | NLP, Transformer, Model Compression / Knowledge Distillation | [paper](https://arxiv.org/pdf/1910.01108) |
