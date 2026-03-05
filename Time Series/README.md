@@ -49,3 +49,4 @@
 | 2026.02.10 | TSMixer: An All-MLP Architecture for Time Series Forecasting | Time Series Forecasting, All-MLP, MLP-Mixer, Sequence Modeling | [paper](https://arxiv.org/pdf/2303.06053)
 | 2026.02.17 | N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting | Time Series Forecasting, Hierarchical Interpolation, Multi-Rate Sampling | [paper](https://arxiv.org/pdf/2201.12886)
 | 2026.02.24 | Informer : Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | Time Series Forecasting, Efficient Transformer, Long-Range Dependency | [paper](https://arxiv.org/pdf/2012.07436) |
+| 2026.03.04 | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | Traffic Prediction, Spatio-Temporal Modeling, Graph Neural Network (GCN) | [paper](https://arxiv.org/pdf/1709.04875) |
