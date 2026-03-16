@@ -36,3 +36,4 @@
 | 2026.02.23 | GRU4Rec : Session-based Recommendations with Recurrent Neural Networks | Recommender Systems, Session-based, RNN/GRU | [paper](https://arxiv.org/pdf/1511.06939) |
 | 2026.03.02 | Behavior Sequence Transformer for E-commerce Recommendation in Alibaba | Recommender Systems, Sequential Recommendation, Transformer | [paper](https://arxiv.org/pdf/1905.06874) |
 | 2026.03.09 | Deep Interest Network for Click-Through Rate Prediction | CTR Prediction, Recommender Systems, Attention-based User Interest Modeling | [paper](https://arxiv.org/pdf/1706.06978) |
+| 2026.03.16 | S³‑Rec: Self‑Supervised Learning for Sequential Recommendation with Mutual Information Maximization | Sequential Recommendation, Self-Supervised Learning, Mutual Information Maximization | [paper](https://arxiv.org/abs/2008.07873) |
