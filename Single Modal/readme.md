@@ -43,3 +43,4 @@
 | 2026.02.25 | Masked Autoencoders Are Scalable Vision Learners | CV, Vision Transformers Self-Supervised Learning | [paper](https://arxiv.org/pdf/2111.06377) |
 | 2026.03.04 | DistilBERT: a distilled version of BERT | NLP, Transformer, Model Compression / Knowledge Distillation | [paper](https://arxiv.org/pdf/1910.01108) |
 | 2026.03.04 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | Vision-Language, Multimodal, Contrastive Learning / ALIGN | [paper](https://arxiv.org/pdf/2102.05918) |
+| 2015.5.18 | U-Net: Convolutional Networks for Biomedical Image Segmentation | Image Segmentation, U-Net, Encoder–Decoder CNN | [paper](https://arxiv.org/abs/1505.04597) |
