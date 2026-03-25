@@ -51,5 +51,5 @@
 | 2026.02.24 | Informer : Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | Time Series Forecasting, Efficient Transformer, Long-Range Dependency | [paper](https://arxiv.org/pdf/2012.07436) |
 | 2026.03.03 | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | Traffic Prediction, Spatio-Temporal Modeling, Graph Neural Network (GCN) | [paper](https://arxiv.org/pdf/1709.04875) |
 | 2026.03.10 | DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks | Time Series Forecasting, Probabilistic Forecasting, Autoregressive RNN, LSTM | [paper](https://arxiv.org/pdf/1704.04110) |
-| 2025.03.17 | Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation | Robotics, Cross-Embodiment Learning, Transformer Policy | [paper](https://arxiv.org/abs/2408.11812) |
-| 2025.03.24 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting | Time Series, Transformer, Interpretability, Multi-horizon Forecasting | [paper](https://arxiv.org/pdf/1912.09363) |
+| 2026.03.17 | Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation | Robotics, Cross-Embodiment Learning, Transformer Policy | [paper](https://arxiv.org/abs/2408.11812) |
+| 2026.03.24 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting | Time Series, Transformer, Interpretability, Multi-horizon Forecasting | [paper](https://arxiv.org/pdf/1912.09363) |
