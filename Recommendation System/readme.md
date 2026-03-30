@@ -38,3 +38,4 @@
 | 2026.03.09 | Deep Interest Network for Click-Through Rate Prediction | CTR Prediction, Recommender Systems, Attention-based User Interest Modeling | [paper](https://arxiv.org/pdf/1706.06978) |
 | 2026.03.16 | S³‑Rec: Self‑Supervised Learning for Sequential Recommendation with Mutual Information Maximization | Sequential Recommendation, Self-Supervised Learning, Mutual Information Maximization | [paper](https://arxiv.org/abs/2008.07873) |
 | 2026.03.23 | Embarrassingly Shallow Autoencoders for Sparse Data | Linear Model, Autoencoder, Sparse Recommendation | [paper](https://arxiv.org/abs/1905.03375) |
+| 2026.03.30 | From RankNet to LambdaRank to LambdaMART : An Overview | Learning to Rank, Gradient Boosting, Ranking Model | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf) |
