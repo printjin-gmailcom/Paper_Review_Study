@@ -53,3 +53,4 @@
 | 2026.03.10 | DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks | Time Series Forecasting, Probabilistic Forecasting, Autoregressive RNN, LSTM | [paper](https://arxiv.org/pdf/1704.04110) |
 | 2026.03.17 | Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation | Robotics, Cross-Embodiment Learning, Transformer Policy | [paper](https://arxiv.org/abs/2408.11812) |
 | 2026.03.24 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting | Time Series, Transformer, Interpretability, Multi-horizon Forecasting | [paper](https://arxiv.org/pdf/1912.09363) |
+| 2026.03.31 | Comprehensive Review of Neural Differential Equations for Time Series Analysis | Time Series, Neural Differential Equations, Continuous-time Modeling, Survey | [paper](https://arxiv.org/html/2502.09885v1) |
