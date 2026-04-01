@@ -45,3 +45,4 @@
 | 2026.03.11 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | Vision-Language, Multimodal, Contrastive Learning / ALIGN | [paper](https://arxiv.org/pdf/2102.05918) |
 | 2026.03.18 | U-Net: Convolutional Networks for Biomedical Image Segmentation | Image Segmentation, U-Net, Encoder–Decoder CNN | [paper](https://arxiv.org/abs/1505.04597) |
 | 2026.03.25 | A Simple Framework for Contrastive Learning of Visual Representations | Computer Vision, Self-Supervised Learning, Contrastive Learning, Representation Learning | [paper](https://arxiv.org/pdf/2002.05709) |
+| 2026.04.01 | LoRA : Low-Rank Adaptation of Large Language Models | NLP, Parameter-Efficient Fine-Tuning, Large Language Models, Optimization | [paper](https://arxiv.org/pdf/2106.09685) |
