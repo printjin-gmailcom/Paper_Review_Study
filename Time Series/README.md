@@ -35,7 +35,7 @@
 | 2025.10.03 | Empowering Time Series Analysis with Large Language Models: A Survey | Time Series, Large Language Models, Survey | [paper](https://arxiv.org/abs/2402.03182) |
 | 2025.10.10 | Graph-based Time-Series Anomaly Detection: A Survey and Outlook | Graph, Time Series, Anomaly Detection, Survey | [paper](https://arxiv.org/pdf/2302.00058v3) |
 | 2025.10.17 | Unsupervised Anomaly Detection in Time-series: An Extensive Evaluation and Analysis of State-of-the-art Methods | Time Series, Anomaly Detection, Unsupervised Learning, Evaluation | [paper](https://arxiv.org/abs/2212.03637) |
-| 2025.10.24 | ETSformer: Exponential Smoothing Transformers for Time Series Forecasting | Time Series, Forecasting, Transformer, Exponential Smoothing | [paper](https://arxiv.org/abs/2202.01381)                 |
+| 2025.10.24 | ETSformer: Exponential Smoothing Transformers for Time Series Forecasting | Time Series, Forecasting, Transformer, Exponential Smoothing | [paper](https://arxiv.org/abs/2202.01381) |
 | 2025.11.07 | Multi-resolution Time-Series Transformer for Long-term Forecasting | Time Series, Transformer, Long-term Forecasting, Multi-resolution | [paper](https://arxiv.org/abs/2311.04147) |
 | 2025.11.14 | N‑BEATS: Neural basis expansion analysis for interpretable time series forecasting | Time Series, Deep Learning, Interpretability | [paper](https://arxiv.org/abs/1905.10437) |
 | 2025.11.21 | Long-term Forecasting with TiDE: Time-series Dense Encoder | Time Series, Deep Learning, Forecasting | [paper](https://arxiv.org/pdf/2304.08424) |
@@ -54,3 +54,4 @@
 | 2026.03.17 | Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation | Robotics, Cross-Embodiment Learning, Transformer Policy | [paper](https://arxiv.org/abs/2408.11812) |
 | 2026.03.24 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting | Time Series, Transformer, Interpretability, Multi-horizon Forecasting | [paper](https://arxiv.org/pdf/1912.09363) |
 | 2026.03.31 | Comprehensive Review of Neural Differential Equations for Time Series Analysis | Time Series, Neural Differential Equations, Continuous-time Modeling, Survey | [paper](https://arxiv.org/html/2502.09885v1) |
+| 2026.04.07 | An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling | Time Series, Sequence Modeling, CNN, RNN, TCN | [paper](https://arxiv.org/pdf/1803.01271) |
