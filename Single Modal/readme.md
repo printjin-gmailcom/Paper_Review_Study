@@ -46,3 +46,4 @@
 | 2026.03.18 | U-Net: Convolutional Networks for Biomedical Image Segmentation | Image Segmentation, U-Net, Encoder–Decoder CNN | [paper](https://arxiv.org/abs/1505.04597) |
 | 2026.03.25 | A Simple Framework for Contrastive Learning of Visual Representations | Computer Vision, Self-Supervised Learning, Contrastive Learning, Representation Learning | [paper](https://arxiv.org/pdf/2002.05709) |
 | 2026.04.01 | LoRA : Low-Rank Adaptation of Large Language Models | NLP, Parameter-Efficient Fine-Tuning, Large Language Models, Optimization | [paper](https://arxiv.org/pdf/2106.09685) |
+| 2026.04.08 | An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling | Time Series, Sequence Modeling, CNN, RNN, TCN | [paper](https://arxiv.org/pdf/1803.01271) |
