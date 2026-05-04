@@ -11,4 +11,5 @@
 
 ## Paper List
 | Date       | Paper | Topic | Links |
+|------------|------|-------|------|
 | 2026.05.04 | Visual Planning: Let's Think Only with Images | Visual Planning, Reinforcement Learning, Vision-based Reasoning | https://arxiv.org/abs/2505.11409 |
