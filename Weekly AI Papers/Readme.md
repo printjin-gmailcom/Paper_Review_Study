@@ -14,4 +14,5 @@
 |------------|------|-------|------|
 | 2026.05.04 | Visual Planning: Let's Think Only with Images | Visual Planning, Reinforcement Learning, Vision-based Reasoning | paper[https://arxiv.org/abs/2505.11409] |
 | 2026.07.21 | Failure as a Process: An Anatomy of CLI Coding Agent Trajectories | Coding Agent, LLM Agent Reliability, Failure Analysis, Software Engineering | paper[https://arxiv.org/abs/2607.09510] |
-| 2026.07.22 | Rethinking the Evaluation of Harness Evolution for Agents | LLM Agents, Harness Evolution, Agent Evaluation, Test-time Scaling, Benchmark Generalization | paper(https://arxiv.org/abs/2607.12227) |
+| 2026.07.22 | Rethinking the Evaluation of Harness Evolution for Agents | LLM Agents, Harness Evolution, Agent Evaluation, Test-time Scaling, Benchmark Generalization | paper[https://arxiv.org/abs/2607.12227] |
+| 2026.07.23 | When is Routing Meaningful? Diversity and Robustness in Language Model Societies | LLM Routing, Multi-Agent Systems, Agent Diversity, Routing Robustness, Model Selection | paper[https://arxiv.org/abs/2607.09197] |
