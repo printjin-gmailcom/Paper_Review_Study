@@ -16,3 +16,4 @@
 | 2026.07.21 | Failure as a Process: An Anatomy of CLI Coding Agent Trajectories | Coding Agent, LLM Agent Reliability, Failure Analysis, Software Engineering | paper[https://arxiv.org/abs/2607.09510] |
 | 2026.07.22 | Rethinking the Evaluation of Harness Evolution for Agents | LLM Agents, Harness Evolution, Agent Evaluation, Test-time Scaling, Benchmark Generalization | paper[https://arxiv.org/abs/2607.12227] |
 | 2026.07.23 | When is Routing Meaningful? Diversity and Robustness in Language Model Societies | LLM Routing, Multi-Agent Systems, Agent Diversity, Routing Robustness, Model Selection | paper[https://arxiv.org/abs/2607.09197] |
+| 2026.07.24 | Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting | Database Systems, Query Optimization, Materialized Views, Query Rewriting, Database Benchmarking | paper[https://arxiv.org/abs/2607.19679] |
