@@ -18,3 +18,4 @@
 | 2026.07.23 | When is Routing Meaningful? Diversity and Robustness in Language Model Societies | LLM Routing, Multi-Agent Systems, Agent Diversity, Routing Robustness, Model Selection | paper[https://arxiv.org/abs/2607.09197] |
 | 2026.07.24 | Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting | Database Systems, Query Optimization, Materialized Views, Query Rewriting, Database Benchmarking | paper[https://arxiv.org/abs/2607.19679] |
 | 2026.07.27 | Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable | AI Agents, Agent Infrastructure, Harness Engineering, Behavior Localization, Code Navigation | paper[https://arxiv.org/abs/2607.13285] |
+| 2026.07.28 | LinkML-Scala: a Robust, Fast, and Portable Implementation of LinkML | Data Modeling, LinkML, Scala, Schema Engineering, JVM, Multiplatform, Performance Optimization | paper [https://arxiv.org/abs/2607.22335] |
