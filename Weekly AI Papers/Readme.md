@@ -19,3 +19,4 @@
 | 2026.07.24 | Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting | Database Systems, Query Optimization, Materialized Views, Query Rewriting, Database Benchmarking | paper[https://arxiv.org/abs/2607.19679] |
 | 2026.07.27 | Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable | AI Agents, Agent Infrastructure, Harness Engineering, Behavior Localization, Code Navigation | paper[https://arxiv.org/abs/2607.13285] |
 | 2026.07.28 | LinkML-Scala: a Robust, Fast, and Portable Implementation of LinkML | Data Modeling, LinkML, Scala, Schema Engineering, JVM, Multiplatform, Performance Optimization | paper [https://arxiv.org/abs/2607.22335] |
+| 2026.07.29 | From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents | LLM Agents, Agent Memory, Skill Evolution, Long-Horizon Tasks, Memory Management, Lifelong Learning | paper [https://arxiv.org/pdf/2607.16621] |
