@@ -10,13 +10,15 @@
 * 읽은 논문 중심의 간단 리뷰 정리
 
 ## Paper List
-| Date       | Paper | Topic | Links |
-|------------|------|-------|------|
-| 2026.05.04 | Visual Planning: Let's Think Only with Images | Visual Planning, Reinforcement Learning, Vision-based Reasoning | paper[https://arxiv.org/abs/2505.11409] |
-| 2026.07.21 | Failure as a Process: An Anatomy of CLI Coding Agent Trajectories | Coding Agent, LLM Agent Reliability, Failure Analysis, Software Engineering | paper[https://arxiv.org/abs/2607.09510] |
-| 2026.07.22 | Rethinking the Evaluation of Harness Evolution for Agents | LLM Agents, Harness Evolution, Agent Evaluation, Test-time Scaling, Benchmark Generalization | paper[https://arxiv.org/abs/2607.12227] |
-| 2026.07.23 | When is Routing Meaningful? Diversity and Robustness in Language Model Societies | LLM Routing, Multi-Agent Systems, Agent Diversity, Routing Robustness, Model Selection | paper[https://arxiv.org/abs/2607.09197] |
-| 2026.07.24 | Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting | Database Systems, Query Optimization, Materialized Views, Query Rewriting, Database Benchmarking | paper[https://arxiv.org/abs/2607.19679] |
-| 2026.07.27 | Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable | AI Agents, Agent Infrastructure, Harness Engineering, Behavior Localization, Code Navigation | paper[https://arxiv.org/abs/2607.13285] |
-| 2026.07.28 | LinkML-Scala: a Robust, Fast, and Portable Implementation of LinkML | Data Modeling, LinkML, Scala, Schema Engineering, JVM, Multiplatform, Performance Optimization | paper [https://arxiv.org/abs/2607.22335] |
-| 2026.07.29 | From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents | LLM Agents, Agent Memory, Skill Evolution, Long-Horizon Tasks, Memory Management, Lifelong Learning | paper [https://arxiv.org/pdf/2607.16621] |
+| Date | Paper | Topic | Links |
+| 2026.05.04 | Visual Planning: Let's Think Only with Images | Visual Planning, Reinforcement Learning, Vision-based Reasoning | paper [[https://arxiv.org/abs/2505.11409](https://arxiv.org/abs/2505.11409)] |
+| 2026.07.21 | Failure as a Process: An Anatomy of CLI Coding Agent Trajectories | Coding Agent, LLM Agent Reliability, Failure Analysis, Software Engineering | paper [[https://arxiv.org/abs/2607.09510](https://arxiv.org/abs/2607.09510)] |
+| 2026.07.22 | Rethinking the Evaluation of Harness Evolution for Agents | LLM Agents, Harness Evolution, Agent Evaluation, Test-time Scaling, Benchmark Generalization | paper [[https://arxiv.org/abs/2607.12227](https://arxiv.org/abs/2607.12227)] |
+| 2026.07.23 | When is Routing Meaningful? Diversity and Robustness in Language Model Societies | LLM Routing, Multi-Agent Systems, Agent Diversity, Routing Robustness, Model Selection | paper [[https://arxiv.org/abs/2607.09197](https://arxiv.org/abs/2607.09197)] |
+| 2026.07.24 | Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting | Database Systems, Query Optimization, Materialized Views, Query Rewriting, Database Benchmarking | paper [[https://arxiv.org/abs/2607.19679](https://arxiv.org/abs/2607.19679)] |
+| 2026.07.27 | Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable | AI Agents, Agent Infrastructure, Harness Engineering, Behavior Localization, Code Navigation | paper [[https://arxiv.org/abs/2607.13285](https://arxiv.org/abs/2607.13285)] |
+| 2026.07.28 | LinkML-Scala: a Robust, Fast, and Portable Implementation of LinkML | Data Modeling, LinkML, Scala, Schema Engineering, JVM, Multiplatform, Performance Optimization | paper [[https://arxiv.org/abs/2607.22335](https://arxiv.org/abs/2607.22335)] |
+| 2026.07.29 | From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents | LLM Agents, Agent Memory, Skill Evolution, Long-Horizon Tasks, Memory Management, Lifelong Learning | paper [[https://arxiv.org/pdf/2607.16621](https://arxiv.org/pdf/2607.16621)] |
+| 2026.07.30 | Memory Efficient Tabular Foundation Models | Tabular Foundation Models, TabPFN, Quantization, Post-Training Quantization, Model Compression, Memory Efficiency | paper [[https://arxiv.org/abs/2607.27546](https://arxiv.org/abs/2607.27546)] |
+| 2026.07.31 | The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks | Large Reasoning Models, LLM Agents, Overthinking, Agentic AI, Reasoning-Action Dilemma, SWE-bench | paper [[https://arxiv.org/abs/2502.08235](https://arxiv.org/abs/2502.08235)] |
+| 2026.07.31 | Fractal Generative Models | Generative Models, Autoregressive Models, Fractal Architecture, Recursive Learning, Image Generation | paper [[https://arxiv.org/abs/2502.17437](https://arxiv.org/abs/2502.17437)] |
