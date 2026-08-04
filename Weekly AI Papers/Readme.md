@@ -25,3 +25,4 @@
 | 2026.07.30 | Memory Efficient Tabular Foundation Models | Tabular Foundation Models, TabPFN, Quantization, Post-Training Quantization, Model Compression, Memory Efficiency | [paper](https://arxiv.org/abs/2607.27546) |
 | 2026.07.31 | The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks | Large Reasoning Models, LLM Agents, Overthinking, Agentic AI, Reasoning-Action Dilemma, SWE-bench | [paper](https://arxiv.org/abs/2502.08235) |
 | 2026.07.31 | Fractal Generative Models | Generative Models, Autoregressive Models, Fractal Architecture, Recursive Learning, Image Generation | [paper](https://arxiv.org/abs/2502.17437) |
+| 2026.08.05 | Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL | LLM Agents, Tool Calling, Reinforcement Learning, Speculative Execution, Agent Optimization | [paper](https://arxiv.org/abs/2607.25816) |
