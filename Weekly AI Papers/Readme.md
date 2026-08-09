@@ -10,7 +10,6 @@
 * 읽은 논문 중심의 간단 리뷰 정리
 
 ## Paper List
-## Paper List
 
 | Date | Paper | Topic | Links |
 |------|-------|-------|-------|
@@ -27,3 +26,4 @@
 | 2026.07.31 | Fractal Generative Models | Generative Models, Autoregressive Models, Fractal Architecture, Recursive Learning, Image Generation | [paper](https://arxiv.org/abs/2502.17437) |
 | 2026.08.05 | Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL | LLM Agents, Tool Calling, Reinforcement Learning, Speculative Execution, Agent Optimization | [paper](https://arxiv.org/abs/2607.25816) |
 | 2026.08.06 | Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | Large Language Models, Efficient Reasoning, Reasoning Economy, Chain-of-Thought, Adaptive Reasoning, Survey | [paper](https://arxiv.org/abs/2503.24377) |
+| 2026.08.10 | TokTier: Exact Stateful Tokenization for Agentic LLM Serving | LLM Serving, Tokenization, Agentic AI, KV Cache, Stateful Tokenization | [paper](https://arxiv.org/abs/2607.29678) |
