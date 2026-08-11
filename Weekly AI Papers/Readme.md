@@ -28,3 +28,5 @@
 | 2026.08.06 | Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | Large Language Models, Efficient Reasoning, Reasoning Economy, Chain-of-Thought, Adaptive Reasoning, Survey | [paper](https://arxiv.org/abs/2503.24377) |
 | 2026.08.10 | TokTier: Exact Stateful Tokenization for Agentic LLM Serving | LLM Serving, Tokenization, Agentic AI, KV Cache, Stateful Tokenization | [paper](https://arxiv.org/abs/2607.29678) |
 | 2026.08.11 | Recovering Latent Structure in Massive Datasets: A PCA Study of 10 Billion and 1 Trillion Observations | PCA, Large-Scale Data Analysis, Latent Structure, Dimensionality Reduction, Statistical Methodology, Massive Datasets | [paper](https://arxiv.org/abs/2608.07334) |
+| 2026.08.12 | ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB | Database Systems, Query Optimization, Resource Scaling, Cost Optimization, Cloud Data Warehouse | [paper](https://arxiv.org/abs/2608.07945) |
+
