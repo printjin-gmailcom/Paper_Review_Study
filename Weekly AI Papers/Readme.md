@@ -29,4 +29,4 @@
 | 2026.08.10 | TokTier: Exact Stateful Tokenization for Agentic LLM Serving | LLM Serving, Tokenization, Agentic AI, KV Cache, Stateful Tokenization | [paper](https://arxiv.org/abs/2607.29678) |
 | 2026.08.11 | Recovering Latent Structure in Massive Datasets: A PCA Study of 10 Billion and 1 Trillion Observations | PCA, Large-Scale Data Analysis, Latent Structure, Dimensionality Reduction, Statistical Methodology, Massive Datasets | [paper](https://arxiv.org/abs/2608.07334) |
 | 2026.08.12 | ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB | Database Systems, Query Optimization, Resource Scaling, Cost Optimization, Cloud Data Warehouse | [paper](https://arxiv.org/abs/2608.07945) |
-
+| 2026.08.13 | How Accurately Can the Energy Use of Spark Applications Be Estimated Based on Resource Utilisation? | Energy Consumption, Apache Spark, Resource Utilisation, Power Modeling, Sustainable Computing, Cloud Computing | [paper](https://arxiv.org/abs/2608.09359?utm_source=chatgpt.com) |
