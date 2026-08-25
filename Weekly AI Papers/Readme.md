@@ -32,3 +32,4 @@
 | 2026.08.13 | How Accurately Can the Energy Use of Spark Applications Be Estimated Based on Resource Utilisation? | Energy Consumption, Apache Spark, Resource Utilisation, Power Modeling, Sustainable Computing, Cloud Computing | [paper](https://arxiv.org/abs/2608.09359?utm_source=chatgpt.com) |
 | 2026.08.14 | Work Scaling: A Better Approach to Weak Scalability Evaluation | Weak Scalability, Workload Scaling, Performance Evaluation, Visualization, Parallel Computing | [paper](https://arxiv.org/abs/2608.08166) |
 | 2026.08.24 | The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks | Agentic AI, Overthinking, Reasoning-Action Dilemma, Reasoning Models, Agent Evaluation | [paper](https://arxiv.org/abs/2502.08235) |
+| 2026.08.25 | bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets | RDF, Knowledge Graph, Python, SPARQL, DuckDB, Semantic Search | [paper⁠](https://arxiv.org/abs/2608.20358) |
