@@ -33,3 +33,4 @@
 | 2026.08.14 | Work Scaling: A Better Approach to Weak Scalability Evaluation | Weak Scalability, Workload Scaling, Performance Evaluation, Visualization, Parallel Computing | [paper](https://arxiv.org/abs/2608.08166) |
 | 2026.08.24 | The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks | Agentic AI, Overthinking, Reasoning-Action Dilemma, Reasoning Models, Agent Evaluation | [paper](https://arxiv.org/abs/2502.08235) |
 | 2026.08.25 | bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets | RDF, Knowledge Graph, Python, SPARQL, DuckDB, Semantic Search | [paper⁠](https://arxiv.org/abs/2608.20358) |
+| 2026.08.26 | Potential Applications of HBF in LLM Serving Systems | LLM Serving, HBF, HBM, Memory Capacity, MoE, Multi-Model Serving | [paper](https://arxiv.org/abs/2608.13127) |
