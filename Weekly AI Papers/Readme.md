@@ -35,3 +35,4 @@
 | 2026.08.25 | bikiDATA: A Python Library to Query and Explore Large-Scale RDF Datasets | RDF, Knowledge Graph, Python, SPARQL, DuckDB, Semantic Search | [paper⁠](https://arxiv.org/abs/2608.20358) |
 | 2026.08.26 | Potential Applications of HBF in LLM Serving Systems | LLM Serving, HBF, HBM, Memory Capacity, MoE, Multi-Model Serving | [paper](https://arxiv.org/abs/2608.13127) |
 | 2026.08.27 | Extending RTLola with External Data Queries | RTLola, Runtime Monitoring, External Data Queries, Stream Monitoring, k-d Tree | [paper](https://arxiv.org/abs/2608.06039) |
+| 2026.08.28 | Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories | Agent, Runtime Harness, RL, Failure Trajectory, Harness Engineering | [paper](https://arxiv.org/pdf/2608.02276) |
