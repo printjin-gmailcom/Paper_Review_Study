@@ -37,4 +37,5 @@
 | 2026.08.27 | Extending RTLola with External Data Queries | RTLola, Runtime Monitoring, External Data Queries, Stream Monitoring, k-d Tree | [paper](https://arxiv.org/abs/2608.06039) |
 | 2026.08.28 | Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories | Agent, Runtime Harness, RL, Failure Trajectory, Harness Engineering | [paper](https://arxiv.org/pdf/2608.02276) |
 | 2026.08.29 | Demystifying Agent Skills: Why They Work—Until They Don’t | Agent, Agent Skill, Procedural Memory, Retrieval, Agent Memory | [paper](https://arxiv.org/pdf/2608.14036) |
+| 2026.08.30 | JetStream: LLM-Generated Query Accelerators for Dynamic Data | Database, LLM, Query Optimization, Query Accelerator, Agent | [paper](https://arxiv.org/abs/2608.22476) |
 
