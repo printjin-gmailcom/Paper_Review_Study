@@ -39,3 +39,4 @@
 | 2026.08.29 | Demystifying Agent Skills: Why They Work—Until They Don’t | Agent, Agent Skill, Procedural Memory, Retrieval, Agent Memory | [paper](https://arxiv.org/pdf/2608.14036) |
 | 2026.08.30 | JetStream: LLM-Generated Query Accelerators for Dynamic Data | Database, LLM, Query Optimization, Query Accelerator, Agent | [paper](https://arxiv.org/abs/2608.22476) |
 | 2026.08.31 | VersaDB: A High-Performance AI Storage Database for Unifying Multimodal Datasets | AI Storage, Database, Multimodal Dataset, Data Loading, Storage Optimization | [paper](https://arxiv.org/abs/2608.22795) |
+| 2026.09.01 | No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload | Distributed Database, TPC-H, Query Optimization, Shuffle, Bloom Filter, Pipeline Execution | [paper](https://arxiv.org/abs/2608.28352) |
