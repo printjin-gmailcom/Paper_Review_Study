@@ -41,3 +41,4 @@
 | 2026.08.31 | VersaDB: A High-Performance AI Storage Database for Unifying Multimodal Datasets | AI Storage, Database, Multimodal Dataset, Data Loading, Storage Optimization | [paper](https://arxiv.org/abs/2608.22795) |
 | 2026.09.01 | No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload | Distributed Database, TPC-H, Query Optimization, Shuffle, Bloom Filter, Pipeline Execution | [paper](https://arxiv.org/abs/2608.28352) |
 | 2026.09.02 | tse_tick: Fast and Memory-Efficient Processing of TSE Tick Data | Finance, Tick Data, Polars, Parquet, DuckDB, Data Engineering | [paper](https://arxiv.org/abs/2608.23053) |
+| 2026.09.03 | VersaDB: A High-Performance AI Storage Database for Unifying Multimodal Datasets | AI Storage, Multimodal Data, Data Engineering, Database, I/O Optimization | [paper](https://arxiv.org/abs/2608.22795) |
