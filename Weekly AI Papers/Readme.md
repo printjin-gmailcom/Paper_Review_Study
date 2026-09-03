@@ -42,3 +42,4 @@
 | 2026.09.01 | No Silver Bullet: Boosting GaussDB Performance on the 30TB TPC-H Workload | Distributed Database, TPC-H, Query Optimization, Shuffle, Bloom Filter, Pipeline Execution | [paper](https://arxiv.org/abs/2608.28352) |
 | 2026.09.02 | tse_tick: Fast and Memory-Efficient Processing of TSE Tick Data | Finance, Tick Data, Polars, Parquet, DuckDB, Data Engineering | [paper](https://arxiv.org/abs/2608.23053) |
 | 2026.09.03 | VersaDB: A High-Performance AI Storage Database for Unifying Multimodal Datasets | AI Storage, Multimodal Data, Data Engineering, Database, I/O Optimization | [paper](https://arxiv.org/abs/2608.22795) |
+| 2026.09.04 | What is Missing from AI Post-Training AI: An Empirical Analysis | AI Agents, AI-for-AI, Post-Training, Agentic AI, Strategy Optimization | [paper](https://arxiv.org/pdf/2608.19072) |
