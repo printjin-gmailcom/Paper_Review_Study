@@ -45,3 +45,4 @@
 | 2026.09.04 | What is Missing from AI Post-Training AI: An Empirical Analysis | AI Agents, AI-for-AI, Post-Training, Agentic AI, Strategy Optimization | [paper](https://arxiv.org/pdf/2608.19072) |
 | 2026.09.05 | @skills: Attention is all you have | Agent Skills, Context Management, AI Agents, Just-in-Time Context, External Memory | [paper](https://arxiv.org/pdf/2608.12610) |
 | 2026.09.06 | TEngineDB-V: An OLAP-native Vector Search System for Large-k ANN Search | Vector Search, OLAP, Large-k ANN, Global Index, Query Optimization, DPPQ | [paper](https://arxiv.org/pdf/2608.00650) |
+| 2026.09.07 | Oasis: Hiding the Cost of Querying Parquet Files in the Datapath | Parquet, SmartNIC, FPGA, Data Processing, Query Optimization, Hardware Acceleration | [paper](https://arxiv.org/abs/2608.02268) |
