@@ -44,3 +44,4 @@
 | 2026.09.03 | VersaDB: A High-Performance AI Storage Database for Unifying Multimodal Datasets | AI Storage, Multimodal Data, Data Engineering, Database, I/O Optimization | [paper](https://arxiv.org/abs/2608.22795) |
 | 2026.09.04 | What is Missing from AI Post-Training AI: An Empirical Analysis | AI Agents, AI-for-AI, Post-Training, Agentic AI, Strategy Optimization | [paper](https://arxiv.org/pdf/2608.19072) |
 | 2026.09.05 | @skills: Attention is all you have | Agent Skills, Context Management, AI Agents, Just-in-Time Context, External Memory | [paper](https://arxiv.org/pdf/2608.12610) |
+| 2026.09.06 | TEngineDB-V: An OLAP-native Vector Search System for Large-k ANN Search | Vector Search, OLAP, Large-k ANN, Global Index, Query Optimization, DPPQ | [paper](https://arxiv.org/pdf/2608.00650) |
