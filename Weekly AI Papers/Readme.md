@@ -50,3 +50,4 @@
 | 2026.09.09 | Relational-Core Graph Analytics | Graph DB, Cypher, SQL, Zero-ETL, Zero-Copy, Graph Analytics, GraphRAG, Columnar Database | [paper](https://arxiv.org/abs/2609.01525) |
 | 2026.09.10 | Zeta-Lite: A Concurrent, Branchable In-Browser SQL Database for Agentic Memory | In-Browser Database, SQL, MVCC, Database Branching, WebAssembly, Agentic Memory, Vector Search, Graph Query | [paper](https://arxiv.org/abs/2609.01818) |
 | 2026.09.11 | Over the Memory Wall, Into the Instruction Wall: The New Bottleneck in GPU Data Processing | GPU Data Processing, GPU Database, Memory Wall, Instruction Wall, Kernel Optimization, Roofline Analysis | [paper](https://arxiv.org/abs/2608.13696) |
+| 2026.09.21 | STORE: Self-Provisioning Storage-as-a-Service for Serverless Computing | Serverless, Storage, Self-Provisioning, Zero-Configuration, Storage-as-a-Service | [paper](https://arxiv.org/abs/2609.05422) |
