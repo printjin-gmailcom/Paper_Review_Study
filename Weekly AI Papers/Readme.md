@@ -55,4 +55,4 @@
 | 2026.09.24 | Lightweight Multi-scale Hierarchical Anomaly Detection and Localization for Geospatial Big Data Applications at the Edge | Geospatial Data, Anomaly Detection, H3, Edge Computing, Hierarchical Search | [paper](https://arxiv.org/pdf/2608.22648) |
 | 2026.09.25 | OmniTable: A Unified Wide-Table System for Petabyte-Scale LLM Data Curation and Exploration | LLM Data Curation, Wide Table, Feature Engineering, Data Lineage, PB-scale Data Infrastructure | [paper](https://arxiv.org/pdf/2609.11148) |
 | 2026.09.26 | Data Agents: Agentic Data Systems | Data Agent, Agentic Data System, Semantic Data Organization, Data Pipeline, Feedback Loop, Memory | [paper](https://arxiv.org/abs/2609.24137) |
-
+| 2026.10.07 | TabPFN-3.5: Technical Report | Tabular Foundation Model, TabPFN, In-Context Learning, Tabular ML, Synthetic Prior, Data Encoding | [paper](https://arxiv.org/abs/2609.17895) |
