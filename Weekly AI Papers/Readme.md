@@ -58,3 +58,5 @@
 | 2026.10.07 | TabPFN-3.5: Technical Report | Tabular Foundation Model, TabPFN, In-Context Learning, Tabular ML, Synthetic Prior, Data Encoding | [paper](https://arxiv.org/abs/2609.17895) |
 | 2026.10.08 | Programming In-Storage Computing with Located, Stateful Dataflow | In-Storage Computing, Dataflow, Storage Systems, Stateful Computation, Data Placement, Compiler/Runtime | [paper](https://arxiv.org/abs/2609.19206) |
 | 2026.10.09 | Economical and Efficient Big Data Sharing with i-Cloud | Cloud Caching, Big Data Sharing, Cache Optimization, Data Transfer Cost, Machine Learning | [paper](https://arxiv.org/abs/2609.23438) |
+| 2026.10.10 | Reffine: Unifying In-Memory Data Analytics through Sparse Compilation | In-Memory Analytics, Sparse Compilation, Query Optimization, Operator Fusion, Parallelization | [paper](https://arxiv.org/abs/2609.30497) |
+
