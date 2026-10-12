@@ -60,4 +60,5 @@
 | 2026.10.09 | Economical and Efficient Big Data Sharing with i-Cloud | Cloud Caching, Big Data Sharing, Cache Optimization, Data Transfer Cost, Machine Learning | [paper](https://arxiv.org/abs/2609.23438) |
 | 2026.10.10 | Reffine: Unifying In-Memory Data Analytics through Sparse Compilation | In-Memory Analytics, Sparse Compilation, Query Optimization, Operator Fusion, Parallelization | [paper](https://arxiv.org/abs/2609.30497) |
 | 2026.10.11 | Characterizing High Bandwidth Flash for LLM Serving | LLM Serving, High Bandwidth Flash (HBF), Memory Hierarchy, KV Cache, Cache-Aware Scheduling, Energy Efficiency | [paper](https://arxiv.org/abs/2609.39131) |
+| 2026.10.12 | Ditto: Generalized Reconfigurable Linearizable Reads | Distributed Systems, Linearizability, Quorum Systems, Adaptive Reconfiguration, Read Optimization | [paper](https://arxiv.org/abs/2610.00702) |
 
