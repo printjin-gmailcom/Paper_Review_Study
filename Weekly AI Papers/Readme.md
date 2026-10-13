@@ -62,3 +62,4 @@
 | 2026.10.11 | Characterizing High Bandwidth Flash for LLM Serving | LLM Serving, High Bandwidth Flash (HBF), Memory Hierarchy, KV Cache, Cache-Aware Scheduling, Energy Efficiency | [paper](https://arxiv.org/abs/2609.39131) |
 | 2026.10.12 | Ditto: Generalized Reconfigurable Linearizable Reads | Distributed Systems, Linearizability, Quorum Systems, Adaptive Reconfiguration, Read Optimization | [paper](https://arxiv.org/abs/2610.00702) |
 | 2026.10.13 | TabJoinBench: A Benchmark for Joinable Table Discovery | Join Discovery, Table Retrieval, Data Integration, Benchmarking, LLM Embeddings, Robustness | [paper](https://arxiv.org/abs/2610.00817) |
+| 2026.10.14 | Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows | Data Agents, Enterprise Analytics, Decision Making, Benchmarking, Text-to-SQL, Simulation | [paper](https://arxiv.org/abs/2610.02122) |
