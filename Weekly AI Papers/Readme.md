@@ -63,3 +63,4 @@
 | 2026.10.12 | Ditto: Generalized Reconfigurable Linearizable Reads | Distributed Systems, Linearizability, Quorum Systems, Adaptive Reconfiguration, Read Optimization | [paper](https://arxiv.org/abs/2610.00702) |
 | 2026.10.13 | TabJoinBench: A Benchmark for Joinable Table Discovery | Join Discovery, Table Retrieval, Data Integration, Benchmarking, LLM Embeddings, Robustness | [paper](https://arxiv.org/abs/2610.00817) |
 | 2026.10.14 | Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows | Data Agents, Enterprise Analytics, Decision Making, Benchmarking, Text-to-SQL, Simulation | [paper](https://arxiv.org/abs/2610.02122) |
+| 2026.10.15 | Acceleration of Data Analytics on Heterogeneous Supercloud Systems | Heterogeneous Computing, Supercloud, Data Analytics, SVD, Cholesky Decomposition, Performance Modeling | [paper](https://arxiv.org/abs/2610.06291) |
