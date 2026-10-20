@@ -65,3 +65,5 @@
 | 2026.10.14 | Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows | Data Agents, Enterprise Analytics, Decision Making, Benchmarking, Text-to-SQL, Simulation | [paper](https://arxiv.org/abs/2610.02122) |
 | 2026.10.15 | Acceleration of Data Analytics on Heterogeneous Supercloud Systems | Heterogeneous Computing, Supercloud, Data Analytics, SVD, Cholesky Decomposition, Performance Modeling | [paper](https://arxiv.org/abs/2610.06291) |
 | 2026.10.20 | Creating SquashFS Images to Support HPC and AI Datasets | SquashFS, HPC, AI Datasets, Data Management, High-Performance Computing, Storage Optimization | [paper](https://arxiv.org/abs/2610.20578) |
+| 2026.10.21 | JetStream: Generating Verified Query Accelerators for Existing Database Systems | Database Systems, Query Optimization, LLM, Code Generation, Formal Verification, Query Acceleration | [paper](https://arxiv.org/abs/2610.20527) |
+
