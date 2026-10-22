@@ -66,4 +66,4 @@
 | 2026.10.15 | Acceleration of Data Analytics on Heterogeneous Supercloud Systems | Heterogeneous Computing, Supercloud, Data Analytics, SVD, Cholesky Decomposition, Performance Modeling | [paper](https://arxiv.org/abs/2610.06291) |
 | 2026.10.20 | Creating SquashFS Images to Support HPC and AI Datasets | SquashFS, HPC, AI Datasets, Data Management, High-Performance Computing, Storage Optimization | [paper](https://arxiv.org/abs/2610.20578) |
 | 2026.10.21 | JetStream: Generating Verified Query Accelerators for Existing Database Systems | Database Systems, Query Optimization, LLM, Code Generation, Formal Verification, Query Acceleration | [paper](https://arxiv.org/abs/2610.20527) |
-
+| 2026.10.22 | NousDB: A Fast Query Engine for Semantic Analytics | Database Systems, Query Optimization, LLM, Semantic Analytics, Token-Aware Batching, Query Acceleration | [paper](https://arxiv.org/abs/2610.28551) |
