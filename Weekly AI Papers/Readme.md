@@ -69,4 +69,5 @@
 | 2026.10.22 | NousDB: A Fast Query Engine for Semantic Analytics | Database Systems, Query Optimization, LLM, Semantic Analytics, Token-Aware Batching, Query Acceleration | [paper](https://arxiv.org/abs/2610.28551) |
 | 2026.10.23 | WaRP: Workload-Aware Request Planning for Vector Retrieval on Object Storage | Vector Database, Query Optimization, Object Storage, I/O Optimization, Request Batching, Query Acceleration | [paper](https://arxiv.org/html/2610.29689v1) |
 | 2026.10.24 | The Case for Single-Version Concurrency Control in the Cloud | Database Systems, Concurrency Control, MVCC, SVCC, Cloud-Native Database Architecture | [paper](https://arxiv.org/abs/2610.15793) |
+| 2026.10.25 | Data.Readme: Documenting Table Relationships for Diverse Data Tasks | Data Management, Data Lakes, Large Language Models (LLMs), Table Relationships, Data Discovery, Data Analysis | [paper](https://arxiv.org/abs/2610.25131) |
 
