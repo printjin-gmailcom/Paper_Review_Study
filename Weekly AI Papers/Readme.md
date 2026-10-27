@@ -71,3 +71,4 @@
 | 2026.10.24 | The Case for Single-Version Concurrency Control in the Cloud | Database Systems, Concurrency Control, MVCC, SVCC, Cloud-Native Database Architecture | [paper](https://arxiv.org/abs/2610.15793) |
 | 2026.10.25 | Data.Readme: Documenting Table Relationships for Diverse Data Tasks | Data Management, Data Lakes, Large Language Models (LLMs), Table Relationships, Data Discovery, Data Analysis | [paper](https://arxiv.org/abs/2610.25131) |
 | 2026.10.20 | Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design | AI Agents, Agent Harnesses, Object-Oriented Design, Harness Optimization, Task Routing, Software Engineering | [paper](https://arxiv.org/abs/2610.28380) |
+| 2026.10.27 | MetaDB: Putting File-System Structure Back into Distributed Databases | Distributed Databases, Metadata Management, Data Sharding, Transaction Optimization, Storage Engine | [paper](https://arxiv.org/abs/2610.32247) |
