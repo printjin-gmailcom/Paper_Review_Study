@@ -72,3 +72,4 @@
 | 2026.10.25 | Data.Readme: Documenting Table Relationships for Diverse Data Tasks | Data Management, Data Lakes, Large Language Models (LLMs), Table Relationships, Data Discovery, Data Analysis | [paper](https://arxiv.org/abs/2610.25131) |
 | 2026.10.20 | Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design | AI Agents, Agent Harnesses, Object-Oriented Design, Harness Optimization, Task Routing, Software Engineering | [paper](https://arxiv.org/abs/2610.28380) |
 | 2026.10.27 | MetaDB: Putting File-System Structure Back into Distributed Databases | Distributed Databases, Metadata Management, Data Sharding, Transaction Optimization, Storage Engine | [paper](https://arxiv.org/abs/2610.32247) |
+| 2026.10.28 | Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases | Distributed Databases, OLTP, Index Pushdown, Record Caching, Phantom Protection | [paper](https://arxiv.org/abs/2610.33306) |
