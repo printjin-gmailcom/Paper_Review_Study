@@ -75,3 +75,4 @@
 | 2026.10.28 | Nemo: Efficient Caching with Index Pushdown for Disaggregated OLTP Databases | Distributed Databases, OLTP, Index Pushdown, Record Caching, Phantom Protection | [paper](https://arxiv.org/abs/2610.33306) |
 | 2026.10.29 | Back to the Future: The Evolving Universal Relation Model | Document Analytics, Database Evolution, Query-First Construction, Universal Relation, Schema Evolution | [paper](https://arxiv.org/abs/2610.36833) |
 | 2026.10.30 | KVStream: Adaptive Parallel Storage Management for KV Caching in Large-Scale LLM Serving | LLM Serving, KV Cache, Storage I/O, Adaptive Scheduling, Parallel Storage | [paper](<https://arxiv.org/abs/2610.31827?utm_source=chatgpt.com>) |
+| 2026.10.31 | Tile-Based Decompression in Compiled GPU Engines | GPU Database, Data Compression, Query Optimization, Tile-Based Decompression, GPU Memory Management | [paper](https://arxiv.org/abs/2610.32695?utm_source=chatgpt.com) |
