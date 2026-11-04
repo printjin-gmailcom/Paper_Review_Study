@@ -78,5 +78,5 @@
 | 2026.10.31 | Tile-Based Decompression in Compiled GPU Engines | GPU Database, Data Compression, Query Optimization, Tile-Based Decompression, GPU Memory Management | [paper](https://arxiv.org/abs/2610.32695?utm_source=chatgpt.com) |
 | 2026.11.01 | Semantic Atoms for Scalable Text Analysis in Data Analytics in the Era of LLM-Based Agents | LLM Agent, Text Analysis, Data Analytics, Semantic Tagging, Categorization, SQL/Python | [paper](https://arxiv.org/abs/2610.34860) |
 | 2026.11.02 | Tessera: Fast Join-Aggregates over Skewed Sparse Relations in Database Engines | Join-Aggregate, Sparse Matrix Multiplication, Data Skew, Query Optimization, Threshold-based Pruning, Hardware Acceleration | [paper](https://arxiv.org/abs/2610.40620) |
-| 2026.11.02 | Retriever-Free Retrieval: Navigating Documents with Decision Models | RAG, Retriever-Free Retrieval, DecisionRAG, LLM-based Retrieval, Hierarchical Navigation, Decision Models | [paper](https://arxiv.org/abs/2610.35868) |
-
+| 2026.11.03 | Retriever-Free Retrieval: Navigating Documents with Decision Models | RAG, Retriever-Free Retrieval, DecisionRAG, LLM-based Retrieval, Hierarchical Navigation, Decision Models | [paper](https://arxiv.org/abs/2610.35868) |
+| 2026.11.04 | USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance | Recommender Systems, Storage Optimization, USDB, CascadeLSM, Hybrid Columnar Storage, Online Serving, Batch Training | [paper](https://arxiv.org/abs/2611.02618) |
