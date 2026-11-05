@@ -80,3 +80,5 @@
 | 2026.11.02 | Tessera: Fast Join-Aggregates over Skewed Sparse Relations in Database Engines | Join-Aggregate, Sparse Matrix Multiplication, Data Skew, Query Optimization, Threshold-based Pruning, Hardware Acceleration | [paper](https://arxiv.org/abs/2610.40620) |
 | 2026.11.03 | Retriever-Free Retrieval: Navigating Documents with Decision Models | RAG, Retriever-Free Retrieval, DecisionRAG, LLM-based Retrieval, Hierarchical Navigation, Decision Models | [paper](https://arxiv.org/abs/2610.35868) |
 | 2026.11.04 | USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance | Recommender Systems, Storage Optimization, USDB, CascadeLSM, Hybrid Columnar Storage, Online Serving, Batch Training | [paper](https://arxiv.org/abs/2611.02618) |
+| 2026.11.05 | Knowledge Graph Lakehouse: A Cloud-Native Architecture for Managing Enterprise Knowledge Graphs at Scale | Knowledge Graph, Data Lakehouse, Contextualized Knowledge Graph, Cloud-Native Architecture, On-Demand KG Generation, Microservices | [paper](https://arxiv.org/abs/2611.04899) |
+
